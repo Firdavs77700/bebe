@@ -1,0 +1,17 @@
+@font-face {
+    src: url(fonts/Montserrat-SemiBold.ttf);
+    font-family:'Montserrat-SemiBold' ;
+    /* 700 */
+}
+
+@font-face {
+   src: url(fonts/Montserrat-Thin.ttf);
+   font-family:'Montserrat-Thin' ;
+   /* 600 */
+}
+
+@font-face {
+    src: url(fonts/OpenSans_Condensed-SemiBold.ttf);
+    font-family:'OpenSans_Condensed-SemiBold' ;
+    /* 700 */
+}
